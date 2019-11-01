@@ -13,10 +13,19 @@ img{
 }
 i{
   color: rgba(255, 255, 255, 0.8);
-  margin-left: 50px
+  margin-left: 100px
+  }
+
+p{
+	color: rgba(255, 255, 255, 0.8);
+	font-family: 'Roboto', sans-serif;
+	margin-left: 395px;
 }
 
-#home{
-	margin-left: 400px;
-	display: inline-block;
+#huts{display: inline-block;
+	margin-left:  100px;
+}
+
+#home_icon{
+	margin-left: 200px;
 }
